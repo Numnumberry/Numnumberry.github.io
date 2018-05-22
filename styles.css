@@ -1,0 +1,59 @@
+.middle-content {
+    margin-left: 10%;
+    margin-right: 10%;
+    min-width: 1000px;
+}
+
+.top-banner {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #331802;
+    background: linear-gradient(to bottom, #491905, rgb(138, 64, 15));
+    color: #e4b593;
+    text-align: center;
+    font-size: 7em;
+    font-family: "Courier New";
+    font-weight: bold;
+}
+
+.main-selection {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #331802;
+    border-top: none;
+    background-color: #63180a;
+    display: flex;
+    justify-content: space-around;
+}
+
+a:hover {
+    color: #FFF;
+}
+
+.menu-button {
+    text-decoration: none;
+    color: #e4b593;
+    
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.top-picture {
+    background-image: url("coffeeShop2.jpg");
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    z-index: -1;
+    width: 100%;
+    height: 800px;
+}
+
+.temp-box {
+    background: #853f06;
+    width: 100%;
+    height: 500px;
+}
+
