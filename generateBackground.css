@@ -8,20 +8,20 @@
 #left-col {
     z-index: -1;
     background: linear-gradient(to right, #1d0a02, rgb(88, 39, 6));
-    width: 12.5%;
+    width: 15%;
     height: 5000px;
 }
 
 #mid-col {
     z-index: -1;
     background:rgb(88, 39, 6);
-    width: 75%;
+    width: 70%;
     height: 5000px;
 }
 
 #right-col {
     z-index: -1;
     background: linear-gradient(to left, #1d0a02, rgb(88, 39, 6));
-    width: 12.5%;
+    width: 15%;
     height: 5000px;
 }
