@@ -1,2 +1,0 @@
-# LavaJava
-my first website
