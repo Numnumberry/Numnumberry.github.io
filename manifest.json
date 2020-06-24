@@ -1,11 +1,16 @@
 {
   "short_name": "SOS App",
-  "name": "SOS App New",
+  "name": "SOS App",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
+    },
+    {
+      "src": "SOS.png",
+      "sizes": "500x500",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
