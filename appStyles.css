@@ -1,0 +1,8 @@
+body {
+  font-family: roboto;
+  background-color: #151515;
+}
+
+div {
+  -webkit-tap-highlight-color: transparent;
+}
